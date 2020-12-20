@@ -8,7 +8,7 @@ while (confirm("Pulse Aceptar para ingresar un número o Cancelar para salir y o
     if (isNaN(num)) {
         alert("No ingresaste un número. Inténtalo nuevamente.");
     } else {
-        suma += num;
+        suma++;
     }
 }
 
